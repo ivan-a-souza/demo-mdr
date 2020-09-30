@@ -1,5 +1,5 @@
 <?php
-echo "<h1>Olá MDR v3.2</h1> ";
+echo "<h1>Olá MDR v3.3</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 
 echo "<br><hr>";
